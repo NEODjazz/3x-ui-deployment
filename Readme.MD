@@ -1,4 +1,4 @@
-# 3x-UI Deployment
+# 3x-UI Deployment VPS server
 
 ## Project Files decription
 
